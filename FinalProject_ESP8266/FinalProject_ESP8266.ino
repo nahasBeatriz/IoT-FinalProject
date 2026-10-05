@@ -2,9 +2,9 @@
 #include <PubSubClient.h>
 
 // Network Variables
-const char* ssid = "agents";
-const char* password = "QgC9O8VucAByqvVu5Rruv1zdpqM66cd23KG4ElV7vZiJND580bzYvaHqz5k07G2";
-const char* mqtt_server = "broker.emqx.io";
+const char* ssid = "ssid";
+const char* password = "password";
+const char* mqtt_server = "server";
 const int mqtt_port = 1883;
 
 // Physical sensor and LED
